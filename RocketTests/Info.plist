@@ -12,10 +12,16 @@
 	<string>6.0</string>
 	<key>CFBundleName</key>
 	<string>$(PRODUCT_NAME)</string>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>access photo</string>
+	<key>NSPhotoLibraryAddUsageDescription</key>
+	<string>access photo</string>
 	<key>CFBundlePackageType</key>
 	<string>$(PRODUCT_BUNDLE_PACKAGE_TYPE)</string>
 	<key>CFBundleShortVersionString</key>
 	<string>1.0</string>
+	<key>LSApplicationCategoryType</key>
+	<string></string>
 	<key>CFBundleVersion</key>
 	<string>1</string>
 </dict>
